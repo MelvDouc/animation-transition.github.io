@@ -1,1 +1,0 @@
-Quelques effets d'animation et de transition en CSS.
